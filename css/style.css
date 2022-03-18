@@ -45,11 +45,11 @@ a:hover.mini-header{
   align-content: center;
 }
 
-.medium-header{
+.cari{
   padding: 15px;
 }
 
-a.medium-header{
+a.cari{
   font-size: 12px;
   color: rgba(0,0,0,.7);
   padding-left: 10px;
@@ -63,7 +63,7 @@ a.medium-header{
   border: solid 1px var(--N75,#E5E7E9);
 }
 
-button.medium-header{
+button.cari{
   width: 100px;
   height: 32px;
   padding: 0px 16px;
@@ -76,7 +76,7 @@ button.medium-header{
   border: 1px solid rgb(3,172,14);
 }
 
-button.medium-header-fill{
+button.btn_daftar{
   width: 100px;
   height: 32px;
   padding: 0px 16px;
