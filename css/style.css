@@ -1,3 +1,7 @@
+container1{
+background: white;
+}
+
 .mini-icon{
   height: 18px;
 }
@@ -95,7 +99,7 @@ button.medium-header-beli{
   background: #D4D4D4;
   color: #BCB7B7;
   cursor: pointer;
-  border: 1px solid #6C727C;
+  border: 1px solid #5C5454;
 }
 
 a:hover.medium-header{
