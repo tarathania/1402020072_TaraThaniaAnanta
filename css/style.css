@@ -97,9 +97,9 @@ button.medium-header-beli{
   border-radius: 8px;
   font-size: 12px;
   background: #D4D4D4;
-  color: #BCB7B7;
+  color: #5C5454;
   cursor: pointer;
-  border: 1px solid #5C5454;
+  border: 1px solid white;
 }
 
 a:hover.medium-header{
