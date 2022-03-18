@@ -2,13 +2,13 @@
   height: 18px;
 }
 
+.mini-header{
+}
+
 .medium-icon{
   padding-left: 20px;
   padding-right: 20px;
   height: 28px;
-}
-
-.mini-header{
 }
 
 .line{
@@ -85,15 +85,15 @@ button.medium-header-fill{
   border: 1px solid rgb(3,172,14);
 }
 
-button.medium-header-fill-grey{
+button.medium-header-beli{
   width: 100px;
   height: 32px;
   padding: 0px 16px;
   font-weight: 800;
   border-radius: 8px;
   font-size: 12px;
-  background: #6C727C;
-  color: white;
+  background: #D4D4D4;
+  color: #BCB7B7;
   cursor: pointer;
   border: 1px solid #6C727C;
 }
