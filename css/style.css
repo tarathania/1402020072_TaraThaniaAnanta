@@ -1,18 +1,14 @@
-container1{
-background: white;
-}
-
 .mini-icon{
   height: 18px;
-}
-
-.mini-header{
 }
 
 .medium-icon{
   padding-left: 20px;
   padding-right: 20px;
   height: 28px;
+}
+
+.mini-header{
 }
 
 .line{
@@ -45,11 +41,11 @@ a:hover.mini-header{
   align-content: center;
 }
 
-.cari{
+.medium-header{
   padding: 15px;
 }
 
-a.cari{
+a.medium-header{
   font-size: 12px;
   color: rgba(0,0,0,.7);
   padding-left: 10px;
@@ -57,13 +53,14 @@ a.cari{
 }
 
 .search{
-  width: 63%;
+  width: 59%;
   height: 32px;
   border-radius: 8px;
   border: solid 1px var(--N75,#E5E7E9);
+  
 }
 
-button.cari{
+button.medium-header{
   width: 100px;
   height: 32px;
   padding: 0px 16px;
@@ -76,7 +73,7 @@ button.cari{
   border: 1px solid rgb(3,172,14);
 }
 
-button.btn_daftar{
+button.medium-header-fill{
   width: 100px;
   height: 32px;
   padding: 0px 16px;
@@ -89,17 +86,17 @@ button.btn_daftar{
   border: 1px solid rgb(3,172,14);
 }
 
-button.medium-header-beli{
+button.bttnGrey{
   width: 100px;
   height: 32px;
   padding: 0px 16px;
   font-weight: 800;
   border-radius: 8px;
   font-size: 12px;
-  background: #D4D4D4;
-  color: #5C5454;
+  background: #6C727C;
+  color: white;
   cursor: pointer;
-  border: 1px solid white;
+  border: 1px solid #6C727C;
 }
 
 a:hover.medium-header{
